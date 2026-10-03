@@ -1,0 +1,14 @@
+{
+    "posts" : [
+        {
+            "title": "Housekeeping",
+            "date": "08/06/2026",
+            "link": "posts/2026/august/housekeeping"
+        },
+        {
+            "title": "My first Blog post!",
+            "date": "07/11/2026",
+            "link": "posts/2026/july/firstPost"
+        }
+    ]
+}

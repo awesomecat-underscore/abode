@@ -1,0 +1,33 @@
+body {
+    margin-left: 0;
+    margin-top: 0;
+}
+
+
+.logoDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
+}
+
+.logo {
+    width: 50%;
+}
+
+.warning {
+    position: absolute;
+    display: inline-block;
+    z-index: 1;
+    text-align: center;
+    width: 100%;
+    background: linear-gradient(yellow, orange);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: rgb(22, 22, 22);
+    }
+}
