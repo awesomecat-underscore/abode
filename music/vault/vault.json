@@ -1,0 +1,22 @@
+{
+    "songs" : [
+        {
+            "title" : "demo-heroine2.mp3",
+            "description" : "a very bad attempt at emulating femtanyl's style",
+            "year" : "2025",
+            "link" : "2025/demo-heroine2.mp3"
+        },
+        {
+            "title" : "attemptAtAmbient.mp3",
+            "description" : "title says it all",
+            "year" : "2025",
+            "link" : "2025/attemptAtAmbient.mp3"
+        },
+        {
+            "title" : "demo-anothersong.mp3",
+            "description" : "tried sci-fi",
+            "year" : "2025",
+            "link" : "2025/demo-anothersong.mp3"
+        }
+    ]
+}
