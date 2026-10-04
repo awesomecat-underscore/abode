@@ -17,6 +17,42 @@
             "description" : "tried sci-fi",
             "year" : "2025",
             "link" : "2025/demo-anothersong.mp3"
+        },
+        {
+            "title" : "demo-powertrip2.mp3",
+            "description" : "a fucking mess",
+            "year" : "2025",
+            "link" : "2025/demo-powertrip2.mp3"
+        },
+        {
+            "title" : "demo-awesomecatChase2.mp3",
+            "description" : "i will recycle part of this bassline, eventualy",
+            "year" : "2025",
+            "link" : "2025/demo-awesomecatChase2.mp3"
+        },
+        {
+            "title" : "demo-The_Jungle.mp3",
+            "description" : "an early demo of 'idkwtct', as you can see, i did know what to call it, i just didn't like the name in the end",
+            "year" : "2025",
+            "link" : "2025/demo-The_Jungle.mp3"
+        },
+        {
+            "title" : "thingdfkjasdjfj.mp3",
+            "description" : "i dont remember making this, its very similar to idkwtct, which already exsisted at this point so idk why i made it",
+            "year" : "2025",
+            "link" : "2025/thingdfkjasdjfj.mp3"
+        },
+        {
+            "title" : "Untitled DnB song.mp3",
+            "description" : "even earlier verson of idkwtct",
+            "year" : "2025",
+            "link" : "2025/Untitled DnB song.mp3"
+        },
+        {
+            "title" : "thing1.wav",
+            "description" : "really really early song that contains the melody of 'mess' from logic demos",
+            "year" : "2024",
+            "link" : "2024/thing1.wav"
         }
     ]
 }
