@@ -1,6 +1,18 @@
 {
     "songs" : [
         {
+            "title" : "Aria math for metal heads.mp3",
+            "description" : "a cover of c418's aria math except i suck ass at guitar and get out of time and add in some power chords cuz i have no talent and larp being good at this stupid instrument.",
+            "year" : "2026",
+            "link" : "2026/Aria math for metal heads.mp3"
+        },
+        {
+            "title" : "Slts-3-4ths-plus1transpose.mp3",
+            "description" : "here's smells like teen spirt transposed by one and played very badly, in 3/4ths on a slightly out of tune guitar, where the loudest thing is the metronome",
+            "year" : "2026",
+            "link" : "2026/Slts-3-4ths-plus1transpose.mp3"
+        },
+        {
             "title" : "demo-heroine2.mp3",
             "description" : "a very bad attempt at emulating femtanyl's style",
             "year" : "2025",
